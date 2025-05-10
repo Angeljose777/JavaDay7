@@ -1,0 +1,4 @@
+Welcome to the Java Learning Journey!
+This file is used to demonstrate file reading in Java.
+Each line will be read and printed using BufferedReader.
+Happy coding!
